@@ -5,4 +5,4 @@ the bestways are:
 -sleep
 -code
 -repeat
-thats how it works
+Thats how it works
